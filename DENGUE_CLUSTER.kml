@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="DENGUE_CLUSTER">
+  <name>DENGUE_CLUSTER</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>DENGUE_CLUSTER</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Dengue_Cluster</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Dengue_Cluster</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Berwick Dr / Bloxhome Dr / Bodmin Dr / Borthwick Dr / S'goon Gdns Cl, Dr, Pl, Rise, Ter</td>
+</tr>
+<tr>
+<td>Number of cases</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Dengue_Cluster</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://nea.gov.sg/images/default-source/publichealth/dengue/20170912/20170205.jpg">http://nea.gov.sg/images/default-source/publichealth/dengue/20170912/20170205.jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>4AEB6E1C8E9B97F9</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>9/12/2017 5:20:19 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>31106.2171</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>38418.0029</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Length</td>
+<td>1957.54916</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>183636.750495</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8618214900583,1.365558116031848,0 103.8621398159164,1.36637327173982,0 103.8618034323887,1.36677663939088,0 103.8617415620238,1.366828682670264,0 103.8611312738224,1.367079436588338,0 103.8608713015946,1.367160561976105,0 103.8608478410616,1.36710024567626,0 103.8605017767428,1.366447832258254,0 103.8603680294259,1.366062583665518,0 103.8590934468505,1.362563048199003,0 103.8597450752989,1.362464679730351,0 103.8600402589611,1.362114281433369,0 103.8611027637011,1.36085903800554,0 103.861308867391,1.361040424850177,0 103.8615065387683,1.360818279927911,0 103.8617211538348,1.361010303768762,0 103.8618152827257,1.360891700707894,0 103.8620035408483,1.36076180191449,0 103.8623095810032,1.361209891722954,0 103.8626068081338,1.361658727696421,0 103.8629259341595,1.36209106323317,0 103.8629057282456,1.36210505128421,0 103.86303784207,1.362338192937025,0 103.8628426743888,1.362582118659542,0 103.8631311833838,1.36284385979537,0 103.862610199614,1.363468871431784,0 103.862899435288,1.363702284278384,0 103.8626281764337,1.363994957962567,0 103.8629315585326,1.364244802022791,0 103.8625540754605,1.364693567560568,0 103.8618214900583,1.365558116031848,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Dengue_Cluster</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Dengue_Cluster</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>S'goon Ctrl (Blk 205, 210)</td>
+</tr>
+<tr>
+<td>Number of cases</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Dengue_Cluster</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://nea.gov.sg/images/default-source/publichealth/dengue/20170912/20170231.jpg">http://nea.gov.sg/images/default-source/publichealth/dengue/20170912/20170231.jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>F946F2630ED8BC1E</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>9/12/2017 5:20:19 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>32446.9487</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>37269.6179</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Length</td>
+<td>1671.384587</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>156424.576993</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8735346826254,1.355424487820294,0 103.8731597971361,1.355604164083954,0 103.8727402803865,1.355649088046318,0 103.8717316522614,1.355604187296764,0 103.8717941256093,1.355074159246785,0 103.8718923102601,1.355092124679519,0 103.8720172707588,1.354966353650942,0 103.8720172656293,1.354642947589362,0 103.8716959039118,1.35275641372887,0 103.8714638284061,1.352594714375001,0 103.8715441412439,1.351337021018808,0 103.8728919504409,1.351292081346213,0 103.8732132847009,1.351453779996578,0 103.8734453534421,1.351148336184974,0 103.8744361390117,1.351902934566686,0 103.874543248507,1.351786147670417,0 103.8753912220603,1.352576682079612,0 103.875078821261,1.352953994571364,0 103.8755161994713,1.353448080894755,0 103.8744540387235,1.354696808219943,0 103.8739184930529,1.3552178612969,0 103.8737489034774,1.355334649217559,0 103.8735346826254,1.355424487820294,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Dengue_Cluster</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Dengue_Cluster</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Tanah Merah Kechil Ave / Upp Changi Rd</td>
+</tr>
+<tr>
+<td>Number of cases</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Dengue_Cluster</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://nea.gov.sg/images/default-source/publichealth/dengue/20170912/20170232.jpg">http://nea.gov.sg/images/default-source/publichealth/dengue/20170912/20170232.jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>7A8BAA90BEB3906C</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>9/12/2017 5:20:19 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>40403.851</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>34834.9899</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Length</td>
+<td>1887.833395</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>145739.200787</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.9468594965891,1.330787691233812,0 103.9464290565589,1.331375168026873,0 103.9470565386813,1.331845105571349,0 103.9459183685532,1.332168259856949,0 103.945247184654,1.333335861925286,0 103.944699963717,1.332998099235127,0 103.9445540362692,1.332851240962504,0 103.9441381931338,1.333556209770184,0 103.9432188603425,1.332924734637078,0 103.9431240073301,1.332829276155944,0 103.9430291501776,1.332660386116418,0 103.9429196877018,1.332161052468635,0 103.9427810190993,1.331162381558102,0 103.9427226230439,1.330552896010058,0 103.9428539507765,1.330501487967198,0 103.943313598217,1.330442721785568,0 103.9434594972898,1.329914002978703,0 103.9436418739219,1.329363254054927,0 103.9439579300579,1.329477868727743,0 103.944174496547,1.329612898420084,0 103.9443787935906,1.329774440044377,0 103.9449041184605,1.329987370147971,0 103.9454878072826,1.330082805355195,0 103.9457942474808,1.330222311898089,0 103.9458088363418,1.330141536254039,0 103.9460422913477,1.329722962906742,0 103.9464508498058,1.329297036242312,0 103.9466113532462,1.329084076718121,0 103.947122087737,1.329304348634776,0 103.946939714696,1.329935873627611,0 103.9466406085895,1.330626150512822,0 103.9468594965891,1.330787691233812,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Dengue_Cluster</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Dengue_Cluster</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Chai Chee Rd (Blk 24) / Chai Chee Rd</td>
+</tr>
+<tr>
+<td>Number of cases</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Dengue_Cluster</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://nea.gov.sg/images/default-source/publichealth/dengue/20170912/20170234.jpg">http://nea.gov.sg/images/default-source/publichealth/dengue/20170912/20170234.jpg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>40FE8B3C5D9160EC</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>9/12/2017 5:20:19 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>37876.7684</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>34051.8574</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Length</td>
+<td>1824.747928</td>
+</tr>
+<tr>
+<td>SHAPE_Area</td>
+<td>148121.526946</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.923423964135,1.326462306433117,0 103.9220187561513,1.326767545832865,0 103.9219197165633,1.326081827518174,0 103.9210135604584,1.32622967458863,0 103.9208657133251,1.325204286229794,0 103.9211852535332,1.325113670279334,0 103.9210469444277,1.324212283392036,0 103.9202484367407,1.324369049660568,0 103.9200485620917,1.323731353766041,0 103.9206320216084,1.321899199263983,0 103.9233043700458,1.322793608329638,0 103.9239548470345,1.322989156735526,0 103.9237505134349,1.3238531931254,0 103.9238030565085,1.324156773360899,0 103.9235928851801,1.324209315546067,0 103.9238147331023,1.3252193041697,0 103.9231949562181,1.325343291596492,0 103.923423964135,1.326462306433117,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ffbefaef</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
